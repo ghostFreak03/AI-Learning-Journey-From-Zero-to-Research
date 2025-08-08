@@ -16,5 +16,5 @@ I'm starting from scratch and aiming to build strong foundations in Mathematics,
 - Apply knowledge in open-source projects & research papers
 - Work on LLM research (e.g., Meta’s LLaMA, GPT-like models)
 
-**Learning in public means mistakes will happen, and I will update my notes as I correct them.**
+#### Note - Learning in public means mistakes will happen, and I will update my notes as I correct them.
 
