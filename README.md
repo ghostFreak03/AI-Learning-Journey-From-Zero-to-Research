@@ -1,6 +1,6 @@
 # AI Learning Journey 🤖 - From Zero to Research 👨🏻‍🔬
 
-This repository is a public record of my journey to becoming an AI Research Engineer/Scientist over the next few years. Documenting everything I learn from books, projects, and experiments.
+This repository is a public record of an Android engineer's journey to becoming an AI Research Engineer/Scientist over the next few years. Documenting everything I learn from books, projects, and experiments.
 I'm starting from scratch and aiming to build strong foundations in Mathematics, Machine Learning, Deep Learning, and Large Language Models (LLMs).
 
 ### Current Book: Grokking Deep Learning – Andrew Trask
