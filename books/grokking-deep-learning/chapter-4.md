@@ -32,9 +32,23 @@ Gradient Descent -
     - Scaling - 
         - Since direction_and_amount is a multiple of input, the weight grows big when input is big. This could cause weight to go out of control if input is very big. Later we’ll learn and use alpha to address this. This alpha helps to control how fast the network learns and avoid overshooting.
 
-Prediction - input * weight
-Error - ((input * weight) - goal) ** 2
-Delta(pure error) - (input * weight) - goal
-weight_delta(direction_and_amount) - ((input * weight) - goal) * input
+Error is directly proportional weight. Thus, weight can be directly adjusted to get 0 error. 
 
-This shows that error is directly proportional weight. Thus, weight can be directly adjusted to get 0 error. 
+Derivative - Understanding how one variable changes when you move another variable is called derivative. 
+- If there are two rods a and b sticking out of a box, you move rod a 1 inch inside and if rod b moves 2 inch inside then here the derivative is,
+			rod_b = rod_a * 2
+- In gradient descent weight_delta is our derivative
+
+Alpha - 
+Without alpha the network overreacts when input is high because we multiply delta with input for weight_delta. Thus in each iteration error will be high as the network overreacts more and more. This phenomenon is called divergence.
+
+Usually alpha is a single real-valued number between 0 and 1. But how do we find the correct alpha for our neural network? It’s often done by guessing.
+- If divergence is still high even after introducing alpha, then in shows alpha is not enough - increase the alpha
+- If learning of neural network is very slow, then it shows weight updates are very less - decrease the alpha
+
+Prediction / pred - input * weight
+Error - (pred - goal) ** 2
+Delta / pure_error - pred - goal
+weight_delta / direction_and_amount / derivative - (pred - goal) * input
+
+Thus weight update would be - weight = weight - (weight_delta * alpha)
