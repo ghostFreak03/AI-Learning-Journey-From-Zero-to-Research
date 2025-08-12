@@ -9,5 +9,9 @@
   - Started chapter 4 and learned about different types of learning from error methods
   - uploaded Jupyter notebook code
 
+```Aug 12 - 2025``` 
+  - Completed chapter 4
+  - Learned about derivative, divergence & alpha
+
 ### Next Steps
-- Complete chapter 4
+- Start chapter 5
