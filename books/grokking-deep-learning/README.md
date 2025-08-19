@@ -13,5 +13,9 @@
   - Completed chapter 4
   - Learned about derivative, divergence & alpha
 
+```Aug 19 - 2025``` 
+  - Completed chapter 5
+  - Learned about gradiant descent with multiple input and multiple output
+
 ### Next Steps
-- Start chapter 5
+- Start chapter 6
