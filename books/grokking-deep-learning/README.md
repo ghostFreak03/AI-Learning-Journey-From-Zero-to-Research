@@ -17,5 +17,9 @@
   - Completed chapter 5
   - Learned about gradiant descent with multiple input and multiple output
 
+```Sep 03 - 2025``` 
+  - Completed chapter 6 - One of the toughest till now
+  - Learned bout the need of multi layered network, back propogation and non linearity logic like relu in network
+    
 ### Next Steps
-- Start chapter 6
+- Start chapter 7
