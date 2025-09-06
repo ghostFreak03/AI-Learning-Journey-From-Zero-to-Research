@@ -20,6 +20,10 @@
 ```Sep 03 - 2025``` 
   - Completed chapter 6 - One of the toughest till now
   - Learned bout the need of multi layered network, back propogation and non linearity logic like relu in network
+
+```Sep 06 - 2025```
+  - Completed chapter 7, 8. Chapter 7 is mostly a recap.
+  - In chapter 8, learned about overfitting and regularization methods. Majorly Regularization method - Dropout
     
 ### Next Steps
-- Start chapter 7
+- Start chapter 9
