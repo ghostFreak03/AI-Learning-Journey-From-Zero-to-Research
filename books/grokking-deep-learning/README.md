@@ -22,8 +22,12 @@
   - Learned bout the need of multi layered network, back propogation and non linearity logic like relu in network
 
 ```Sep 06 - 2025```
-  - Completed chapter 7, 8. Chapter 7 is mostly a recap.
+  - Completed chapter 7, 8. Chapter 7 is mostly a recap
   - In chapter 8, learned about overfitting and regularization methods. Majorly Regularization method - Dropout
+
+```Sep 07 - 2025```
+  - Completed chapter 9
+  - Learned about different types of hidden and output layer activation functions
     
 ### Next Steps
-- Start chapter 9
+- Start chapter 10
