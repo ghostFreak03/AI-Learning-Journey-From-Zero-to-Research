@@ -28,6 +28,10 @@
 ```Sep 07 - 2025```
   - Completed chapter 9
   - Learned about different types of hidden and output layer activation functions
+
+```Sep 20 - 2025```
+  - Completed chapter 10
+  - Learned about convolutional layer
     
 ### Next Steps
-- Start chapter 10
+- Start chapter 11
